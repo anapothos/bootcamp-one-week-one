@@ -1,0 +1,32 @@
+.tower {
+    justify-content: center; 
+    flex-direction: column; 
+    align-items: center; 
+    border: yellow;
+    background: cyan; 
+    display: flex;
+    border-style: solid;
+    padding: 10px;
+    
+
+
+}
+.brick {
+    height: 100 px;
+    width: 100px;
+}
+
+.shop {
+    height: 100px;
+    width: 200px;
+}
+.mall{
+    justify-content: space-between; 
+    align-items:center;
+    display: flex;
+    padding: 10px;
+    background: paleturquoise;
+    border: yellow 1px;
+    height: 100 px;
+    width: 200 px;
+}
