@@ -1,5 +1,8 @@
-export const isCorrect = (someString) {
-    if (someString === 'yes') {
+export const isCorrect = (userAnswer) => {
+    if (userAnswer === 'yes') {
         return true; 
-        else return false; 
+    }
+    else { 
+        return false; 
+    }
 };
