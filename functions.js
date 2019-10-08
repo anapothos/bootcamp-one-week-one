@@ -5,7 +5,7 @@ export const isCorrect = (userAnswer) => {
     else { 
         return false; 
     }
-}
+};
 
 export const questionOneFunction = (sanitizedUserAnswer) => {
     if (isCorrect(sanitizedUserAnswer)) { 
@@ -28,5 +28,5 @@ export const sanitizedUserAnswerFunction = (sanitizedUserAnswer) => {
     questionOneFunction(userAnswer2);
     const userAnswer3 = prompt('does the author have a big big dog?');
     questionThreeFunction(userAnswer3);
-    sanitizedUserAnswer
+    sanitizedUserAnswer;
 };

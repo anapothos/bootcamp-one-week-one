@@ -2,13 +2,5 @@
 
 ### About Me Page 
 
-**bold**
-_italics_ 
-*less itlaics*
-- about
-- lists
-* also 
-* lists
-    * sub list 
-    - sub list too 
-* less sub lists 
+**This is a webpage I wrote about myself. I'm very proud of it.**
+
